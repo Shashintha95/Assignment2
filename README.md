@@ -62,6 +62,20 @@
     $ git status
     On branch anotherBranch
     nothing to commit, working tree clean
+    
+### 13. check that your commit succeeded as expected with git log
+
+    Author: shashi <shashijana48@gmail.com>
+    Date:   Sun Sep 12 01:07:19 2021 +0700
+
+        Answer Question
+
+    commit 0f5a325d1f46bae91f1bd0150f3902d911d223f2 (origin/main, origin/HEAD, main)
+    Author: Shashintha95 <85413556+Shashintha95@users.noreply.github.com>
+    Date:   Sat Sep 11 16:07:06 2021 +0700
+
+        Initial commit
+
 
 
 
