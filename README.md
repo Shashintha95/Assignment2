@@ -17,6 +17,8 @@
 ### 5. Create another branch .
     $ git checkout -b anotherBranch
     Switched to a new branch 'anotherBranch'
+    
+### 6. Make changes to your files.
 
 
 
