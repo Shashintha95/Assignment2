@@ -43,7 +43,11 @@
       (use "git restore --staged <file>..." to unstage)
             new file:   Q1.txt
             new file:   anotherfile.txt
+            
+### 10. make the commit with git commit.
 
+    $ git commit
+    Aborting commit due to empty commit message.
 
 
 
