@@ -34,7 +34,15 @@
 ### 8. stage the changes with git add .
 
      $ git add .
+     
+### 9. check that the add did what you expected with git status.
 
+    $ git status
+    On branch anotherBranch
+    Changes to be committed:
+      (use "git restore --staged <file>..." to unstage)
+            new file:   Q1.txt
+            new file:   anotherfile.txt
 
 
 
