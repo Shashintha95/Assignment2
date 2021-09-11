@@ -56,6 +56,13 @@
      2 files changed, 1 insertion(+)
      create mode 100644 Q1.txt
      create mode 100644 anotherfile.txt
+     
+### 12. check that your working directory is clean with git status.
+
+    $ git status
+    On branch anotherBranch
+    nothing to commit, working tree clean
+
 
 
 
