@@ -75,6 +75,26 @@
     Date:   Sat Sep 11 16:07:06 2021 +0700
 
         Initial commit
+        
+        
+### 14. Push your code up to a github repository
+
+
+    $ git push origin anotherBranch
+    Enumerating objects: 7, done.
+    Counting objects: 100% (7/7), done.
+    Delta compression using up to 4 threads
+    Compressing objects: 100% (4/4), done.
+    Writing objects: 100% (7/7), 964 bytes | 482.00 KiB/s, done.
+    Total 7 (delta 0), reused 3 (delta 0), pack-reused 0
+    remote:
+    remote: Create a pull request for 'anotherBranch' on GitHub by visiting:
+    remote:      https://github.com/Shashintha95/Assignment2/pull/new/anotherBranch
+    remote:
+    To https://github.com/Shashintha95/Assignment2.git
+     * [new branch]      anotherBranch -> anotherBranch
+
+
 
 
 
