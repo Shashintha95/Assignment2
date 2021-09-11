@@ -13,6 +13,11 @@
     
 ### 4. Add another file to do the following.
     $ touch anotherfile.txt
+    
+### 5. Create another branch .
+    $ git checkout -b anotherBranch
+    Switched to a new branch 'anotherBranch'
+
 
 
 
