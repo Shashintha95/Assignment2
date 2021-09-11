@@ -48,6 +48,16 @@
 
     $ git commit
     Aborting commit due to empty commit message.
+   
+### 11. Write a meaningful commit message (e.g. "Answers question 1").
+
+    $ git commit -am "Answer Question"
+    [anotherBranch 44b6813] Answer Question
+     2 files changed, 1 insertion(+)
+     create mode 100644 Q1.txt
+     create mode 100644 anotherfile.txt
+
+
 
 
 
